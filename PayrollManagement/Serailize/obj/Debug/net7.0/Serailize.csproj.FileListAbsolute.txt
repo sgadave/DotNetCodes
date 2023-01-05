@@ -16,3 +16,21 @@ D:\IACSD\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\refint\Serailize.dl
 D:\IACSD\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\Serailize.pdb
 D:\IACSD\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\Serailize.genruntimeconfig.cache
 D:\IACSD\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\ref\Serailize.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\bin\Debug\net7.0\Serailize.exe
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\bin\Debug\net7.0\Serailize.deps.json
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\bin\Debug\net7.0\Serailize.runtimeconfig.json
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\bin\Debug\net7.0\Serailize.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\bin\Debug\net7.0\Serailize.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\bin\Debug\net7.0\BOL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\bin\Debug\net7.0\BOL.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\Serailize.csproj.AssemblyReference.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\Serailize.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\Serailize.AssemblyInfoInputs.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\Serailize.AssemblyInfo.cs
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\Serailize.csproj.CoreCompileInputs.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\Serailize.csproj.CopyComplete
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\Serailize.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\refint\Serailize.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\Serailize.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\Serailize.genruntimeconfig.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\Serailize\obj\Debug\net7.0\ref\Serailize.dll

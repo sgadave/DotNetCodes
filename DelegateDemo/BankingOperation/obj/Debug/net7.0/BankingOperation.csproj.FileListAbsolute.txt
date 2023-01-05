@@ -1,0 +1,12 @@
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\DelegateDemo\BankingOperation\obj\Debug\net7.0\BankingOperation.csproj.AssemblyReference.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\DelegateDemo\BankingOperation\obj\Debug\net7.0\BankingOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\DelegateDemo\BankingOperation\obj\Debug\net7.0\BankingOperation.AssemblyInfoInputs.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\DelegateDemo\BankingOperation\obj\Debug\net7.0\BankingOperation.AssemblyInfo.cs
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\DelegateDemo\BankingOperation\obj\Debug\net7.0\BankingOperation.csproj.CoreCompileInputs.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\DelegateDemo\BankingOperation\bin\Debug\net7.0\BankingOperation.deps.json
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\DelegateDemo\BankingOperation\bin\Debug\net7.0\BankingOperation.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\DelegateDemo\BankingOperation\bin\Debug\net7.0\BankingOperation.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\DelegateDemo\BankingOperation\obj\Debug\net7.0\BankingOperation.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\DelegateDemo\BankingOperation\obj\Debug\net7.0\refint\BankingOperation.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\DelegateDemo\BankingOperation\obj\Debug\net7.0\BankingOperation.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\DelegateDemo\BankingOperation\obj\Debug\net7.0\ref\BankingOperation.dll

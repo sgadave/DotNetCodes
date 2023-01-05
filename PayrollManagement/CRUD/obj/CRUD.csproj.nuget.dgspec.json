@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\IACSD PG-DAC Roll No. - 29,60\\Assignments\\DotNet\\Swapnil\\DotNet\\PayrollManagement\\CRUD\\CRUD.csproj": {}
+  },
+  "projects": {
+    "D:\\IACSD PG-DAC Roll No. - 29,60\\Assignments\\DotNet\\Swapnil\\DotNet\\PayrollManagement\\BOL\\BOL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IACSD PG-DAC Roll No. - 29,60\\Assignments\\DotNet\\Swapnil\\DotNet\\PayrollManagement\\BOL\\BOL.csproj",
+        "projectName": "BOL",
+        "projectPath": "D:\\IACSD PG-DAC Roll No. - 29,60\\Assignments\\DotNet\\Swapnil\\DotNet\\PayrollManagement\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "D:\\IACSD PG-DAC Roll No. - 29,60\\Assignments\\DotNet\\Swapnil\\DotNet\\PayrollManagement\\BOL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IACSD PG-DAC Roll No. - 29,60\\Assignments\\DotNet\\Swapnil\\DotNet\\PayrollManagement\\CRUD\\CRUD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IACSD PG-DAC Roll No. - 29,60\\Assignments\\DotNet\\Swapnil\\DotNet\\PayrollManagement\\CRUD\\CRUD.csproj",
+        "projectName": "CRUD",
+        "projectPath": "D:\\IACSD PG-DAC Roll No. - 29,60\\Assignments\\DotNet\\Swapnil\\DotNet\\PayrollManagement\\CRUD\\CRUD.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "D:\\IACSD PG-DAC Roll No. - 29,60\\Assignments\\DotNet\\Swapnil\\DotNet\\PayrollManagement\\CRUD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\IACSD PG-DAC Roll No. - 29,60\\Assignments\\DotNet\\Swapnil\\DotNet\\PayrollManagement\\BOL\\BOL.csproj": {
+                "projectPath": "D:\\IACSD PG-DAC Roll No. - 29,60\\Assignments\\DotNet\\Swapnil\\DotNet\\PayrollManagement\\BOL\\BOL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
