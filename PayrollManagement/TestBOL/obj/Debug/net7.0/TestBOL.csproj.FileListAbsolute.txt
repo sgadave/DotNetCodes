@@ -16,3 +16,28 @@ D:\IACSD\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\refint\TestBOL.dll
 D:\IACSD\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\TestBOL.pdb
 D:\IACSD\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\TestBOL.genruntimeconfig.cache
 D:\IACSD\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\ref\TestBOL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\bin\Debug\net7.0\TestBOL.exe
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\bin\Debug\net7.0\TestBOL.deps.json
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\bin\Debug\net7.0\TestBOL.runtimeconfig.json
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\bin\Debug\net7.0\TestBOL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\bin\Debug\net7.0\TestBOL.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\bin\Debug\net7.0\BOL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\bin\Debug\net7.0\BOL.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\TestBOL.csproj.AssemblyReference.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\TestBOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\TestBOL.AssemblyInfoInputs.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\TestBOL.AssemblyInfo.cs
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\TestBOL.csproj.CoreCompileInputs.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\TestBOL.csproj.CopyComplete
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\TestBOL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\refint\TestBOL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\TestBOL.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\TestBOL.genruntimeconfig.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\obj\Debug\net7.0\ref\TestBOL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\bin\Debug\net7.0\Serailize.deps.json
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\bin\Debug\net7.0\Serailize.runtimeconfig.json
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\bin\Debug\net7.0\Serailize.exe
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\bin\Debug\net7.0\CRUD.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\bin\Debug\net7.0\Serailize.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\bin\Debug\net7.0\Serailize.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\TestBOL\bin\Debug\net7.0\CRUD.pdb

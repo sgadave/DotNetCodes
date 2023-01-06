@@ -2,6 +2,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BOL\BOL.csproj" />
+    <ProjectReference Include="..\Serailize\Serailize.csproj" />
+    <ProjectReference Include="..\CRUD\CRUD.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

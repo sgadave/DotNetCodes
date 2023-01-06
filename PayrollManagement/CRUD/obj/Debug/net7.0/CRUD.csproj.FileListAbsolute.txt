@@ -1,0 +1,15 @@
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\obj\Debug\net7.0\CRUD.csproj.AssemblyReference.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\obj\Debug\net7.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\obj\Debug\net7.0\CRUD.AssemblyInfoInputs.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\obj\Debug\net7.0\CRUD.AssemblyInfo.cs
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\obj\Debug\net7.0\CRUD.csproj.CoreCompileInputs.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\bin\Debug\net7.0\CRUD.deps.json
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\bin\Debug\net7.0\CRUD.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\bin\Debug\net7.0\CRUD.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\bin\Debug\net7.0\BOL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\bin\Debug\net7.0\BOL.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\obj\Debug\net7.0\CRUD.csproj.CopyComplete
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\obj\Debug\net7.0\CRUD.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\obj\Debug\net7.0\refint\CRUD.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\obj\Debug\net7.0\CRUD.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Swapnil\DotNet\PayrollManagement\CRUD\obj\Debug\net7.0\ref\CRUD.dll
