@@ -3,32 +3,106 @@
 }
 
 <div class="text-center">
-    <form action="/home/Submitdata">
-        <label for="userId">
-        User Id:
-        </label>
-        <input type="text" id="userId" name="userId">
-        <label for="password">
-        Password:
-        </label>
-        <input type="password" name="password" id="password">
-        <label for="fName">
-        First Name:
-        </label>
-        <input type="text" id="fName" name="fName">
-        <label for="lName">
-        Last Name:
-        </label>
-        <input type="text" name="lName" id="lName">
-        <label for="adderss">
-        Address:
-        </label>
-        <input type="text" id="address" name="address">
-        <label for="mobileNo">
-        Mobile No:
-        </label>
-        <input type="number" name="mobileNo" id="mobileNo">
-        <button type="submit">Submit</button>
+    <div class="FormBody">
+        <form action="/home/Submitdata">
+            <table>
+                <tr>
+                    <td>
+                        <div class="input-group input-group-sm mb-3">
+                            <label for="userId">
+                                <span id="inputGroup-sizing-sm">User Id:</span>
+                            </label>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="input-group input-group-sm mb-3">
+                            <input type="text" id="userId" name="userId" class="form-control"
+                                aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="input-group input-group-sm mb-3">
+                            <label for="password">
+                                <span id="inputGroup-sizing-sm">Password:</span>
+                            </label>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="input-group input-group-sm mb-3">
+                            <input type="password" name="password" id="password" class="form-control"
+                                aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
+                        </div>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="input-group input-group-sm mb-3">
+                            <label for="fname">
+                                <span id="inputGroup-sizing-sm">First Name:</span>
+                            </label>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="input-group input-group-sm mb-3">
+                            <input type="text" id="fName" name="fName" class="form-control"
+                                aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="input-group input-group-sm mb-3">
+                            <label for="lname">
+                                <span id="inputGroup-sizing-sm">Last Name:</span>
+                            </label>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="input-group input-group-sm mb-3">
+                            <input type="text" id="lName" name="lName" class="form-control"
+                                aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="input-group input-group-sm mb-3">
+                            <label for="adderss">
+                                <span id="inputGroup-sizing-sm">Address:</span>
+                            </label>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="input-group input-group-sm mb-3">
+                            <input type="text" id="address" name="address" class="form-control"
+                                aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="input-group input-group-sm mb-3">
+                            <label for="mobileNo">
+                                <span id="inputGroup-sizing-sm">Mobile No:</span>
+                            </label>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="input-group input-group-sm mb-3">
+                            <input type="number" name="mobileNo" id="mobileNo" class="form-control"
+                                aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm" required>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2"><button type="submit" class="btn btn-primary">Submit</button></td>
+                </tr>
+                </table>
+                    
         </form>
 
+    </div>
 </div>

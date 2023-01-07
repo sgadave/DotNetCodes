@@ -75,3 +75,10 @@ select.form-control {
 .form-control:focus {
     box-shadow: none;
 }
+.FormBody{
+  text-align: center;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
