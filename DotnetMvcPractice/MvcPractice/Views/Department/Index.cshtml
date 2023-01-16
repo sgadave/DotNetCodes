@@ -1,0 +1,20 @@
+@using System.Collections.Generic;
+@using BOL
+
+@{
+    ViewData["Title"] = "Departmet Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Iacsd Departments</h1>
+    @{
+        List<Iacsd> deptList = ViewData["DeptData"] as List<Iacsd>;
+            <table style="width:700px">
+                <tr><th>Department Id</th><th>Department Name</th><th>Department Building</th></tr>
+            @foreach (Iacsd dept in deptList)
+            {
+              <tr><td>@dept.Id</td><td>@dept.Dept</td><td>@dept.Bulding</td></tr>  
+            }
+            </table>
+    }
+</div>
