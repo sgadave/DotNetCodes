@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Update Student Data Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <form action="/Student/UpdateStudentData" method="post">
+        <div>
+            <h4>Select The data to be updated</h4>
+            @* <input type="radio" name="Column" value="Id">Student Id</input> *@
+            <input type="radio" name="Column" value="Name">Student Name</input>
+            <input type="radio" name="Column" value="Course">Student Course</input>
+            <input type="radio" name="Column" value="Address">Student Address</input>
+        </div>
+        <div>Enter Student Id : <input type="number" name="id"></input></div>
+        <div>Enter Value :<input type="text" name="value"></input></div>
+        <button type="submit">Submit</button>
+    </form>
+</div>

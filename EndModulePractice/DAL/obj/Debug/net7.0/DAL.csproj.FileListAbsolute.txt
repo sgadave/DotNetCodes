@@ -1,0 +1,15 @@
+D:\PersonalProjects\EndModulePractice\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\PersonalProjects\EndModulePractice\DAL\bin\Debug\net7.0\DAL.dll
+D:\PersonalProjects\EndModulePractice\DAL\bin\Debug\net7.0\DAL.pdb
+D:\PersonalProjects\EndModulePractice\DAL\bin\Debug\net7.0\BOL.dll
+D:\PersonalProjects\EndModulePractice\DAL\bin\Debug\net7.0\BOL.pdb
+D:\PersonalProjects\EndModulePractice\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\PersonalProjects\EndModulePractice\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProjects\EndModulePractice\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\PersonalProjects\EndModulePractice\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\PersonalProjects\EndModulePractice\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\EndModulePractice\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\PersonalProjects\EndModulePractice\DAL\obj\Debug\net7.0\DAL.dll
+D:\PersonalProjects\EndModulePractice\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\PersonalProjects\EndModulePractice\DAL\obj\Debug\net7.0\DAL.pdb
+D:\PersonalProjects\EndModulePractice\DAL\obj\Debug\net7.0\ref\DAL.dll

@@ -1,0 +1,164 @@
+1. Create a folder and ---> dotnet new sln ----> cmd inside the folder
+
+2. Create all classlibs BOL,BLL,DAL----->dotnet new classlib -o name
+
+3. Create Mvc project and give any name--->dotnet new mvc -o name
+
+4. Add BOL reference to DAL---->got to DAL folder---->dotnet add reference ../BOL/BOL.csproj
+
+5. Add BOL and DAL reference to BLL------>go to BLL folder----->dotnet add reference ../DAL/DAL.csproj --------dotnet add reference ../BOL/BOL.csproj
+
+6. Add all projects to Sln------>dotnet sln add BOL/BOL.csproj------dotnet sln add BLL/BLL.csproj--------dotnet sln add DAL/DAL.csproj----dotnet sln add MVCprjName/MVCprjName.csproj
+
+
+7. Add BOL and BLL reference to Mvc project--->go to  mvc project folder---->dotnet add reference ../BOL/BOL.csproj------dotnet add reference ../BLL/BLL.csproj
+
+
+8. Create Students and Iacsd Poco class in BOL
+
+9. Create DBManager in DAL
+
+10. Add MySql.Data Package in Dal----->dotnet add package MySql.data
+
+11. Import MySql in DBManager----->using MySql.Data.MySqlClient;
+
+12. Create public static string conCredentials
+
+13. Create get method and create a list in the method to store data
+
+14. Create MySQLConnection object in the method
+
+15. Add conCredentials to the MySQLConnection's ConnectionString variable
+
+16. Create a query string in method
+
+17. Create try catch block and write line 18 to 23 in try block
+
+18. Open the connection with help of MySQLConnection Object
+
+19. Create MySqlCommand object in the method and pass the query and connection to the constructor
+
+20. create MySQLDataReader object using MySQLCommand object's ExecuteReader method;
+
+21. Use while loop to and the condition is MySQLDataReader object's read method e.g. reader.read()---> here reader is the object of MySQLDataReader
+
+22. Add data to seperate variables using reader["Column Name"].toString();
+
+23. Create object using data and add to list 
+
+24. In catch block catch(Exception e){Console.writeLine(e.message)}
+
+25. In finally block finally{MysqlConnection Object's close connection method is called}  i.e. mySqlCon.Close();
+
+26. For insert Same procedure from line 13 to 19 and from 24, 25 add MySqlCommand object's ExecuteNonQuery() method instead of lines from 21 to 23 i.e. mySqlCmd.ExecuteNonQuery();
+
+27. Same as line 26 for update and delete only the change in parameters and query line.
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+
+------------Connection String example:-----------
+
+public static string conCredential = @"server=localhost; user=Swapnil; password=Swapnil@99; port=3306; database=IacsdDb";
+
+
+
+-------------Get Data Example :----
+
+
+
+ public static List<Iacsd> GetAllCourses(){
+        List<Iacsd> iacsdData= new List<Iacsd>();
+
+        MySqlConnection mySqlCon = new MySqlConnection();
+        mySqlCon.ConnectionString = conCredential;
+        string query = "Select * from IacsdTable";
+        
+        try{
+            mySqlCon.Open();
+            MySqlCommand sqlCommand = new MySqlCommand(query,mySqlCon);
+            MySqlDataReader reader = sqlCommand.ExecuteReader();
+            while(reader.Read()){
+                int id = int.Parse(reader["CourseId"].ToString()!);
+                string course = reader["CourseName"].ToString()!;
+                string bldg = reader["CourseBldg"].ToString()!;
+
+                Iacsd iacsd = new Iacsd(){CourseId=id,CourseName=course,CourseBldg=bldg};
+                iacsdData.Add(iacsd);
+            }
+        }catch(Exception e){
+            Console.WriteLine(e.Message);
+        }finally{
+            mySqlCon.Close();
+        }
+
+
+        return iacsdData;
+    }
+
+
+
+
+---------------Insert Data Example:-------------
+
+
+ public static void InsertStudent(Student student){
+        MySqlConnection mySqlCon = new MySqlConnection();
+        mySqlCon.ConnectionString = conCredential;
+        string query = "Insert into StudentsTable values ("+student.Id+",'"+student.Name+"','"+student.Course+"','"+student.Address+"')";
+        MySqlCommand sqlCommand = new MySqlCommand(query,mySqlCon);
+        try{
+            mySqlCon.Open();
+            sqlCommand.ExecuteNonQuery();
+        }catch(Exception e){
+            Console.WriteLine(e.Message);
+        }finally{
+            mySqlCon.Close();
+        }
+    }
+
+
+------------------Delete Data Example :-----------
+
+
+
+ public static void DeleteStudent(int id){
+        MySqlConnection mySqlCon = new MySqlConnection();
+        mySqlCon.ConnectionString = conCredential;
+        string query = "Delete from StudentsTable Where id = " + id;
+        MySqlCommand sqlCommand = new MySqlCommand(query,mySqlCon);
+        try{
+            mySqlCon.Open();
+            sqlCommand.ExecuteNonQuery();
+        }catch(Exception e){
+            Console.WriteLine(e.Message);
+        }finally{
+            mySqlCon.Close();
+        }
+    }
+
+
+-------------------Update Data Example :----------------------------
+
+
+public static void UpdateStudent(string column, int id, string value){
+        MySqlConnection mySqlCon = new MySqlConnection();
+        mySqlCon.ConnectionString = conCredential;
+        string query = "Update StudentsTable Set "+ column + "='"+value+"' Where id = " + id;
+        MySqlCommand sqlCommand = new MySqlCommand(query,mySqlCon);
+        try{
+            mySqlCon.Open();
+            sqlCommand.ExecuteNonQuery();
+        }catch(Exception e){
+            Console.WriteLine(e.Message);
+        }finally{
+            mySqlCon.Close();
+        }
+    }
+
+
+---------------------------------------------------------------------------------------END--------------------------------------------------------------------
+

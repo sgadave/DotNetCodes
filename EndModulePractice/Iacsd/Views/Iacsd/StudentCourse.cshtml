@@ -1,0 +1,20 @@
+@using BOL;
+@using System.Collections.Generic;
+@{
+    ViewData["Title"] = "Course Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Iacsd</h1>
+    @{
+        List<Student> students = ViewData["StudentByCourse"] as List<Student>;
+
+            <table border="2px">
+                <tr><th>Student Id</th><th>Student Name</th><th>Student Course</th><th>Student Address</th></tr>
+            @foreach (Student student in students)
+            {
+                <tr><td>@student.Id</td><td>@student.Name</td><td>@student.Course</td><td>@student.Address</td></tr>
+            }
+            </table>
+    }
+</div>

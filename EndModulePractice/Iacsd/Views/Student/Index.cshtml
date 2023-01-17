@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "Student Registration Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <form action="/Student/InsertData" method="post">
+        <div>Student Id : <input type="number" name="id"></input></div>
+        <div>Student Name : <input type="text" name="name"></input></div>
+        <div>Student Course : <input type="text" name="course"></input></div>
+        <div>Student Address : <input type="text" name="address"></input></div>
+        <button type="submit">Submit</button>
+    </form>
+</div>
