@@ -1,0 +1,14 @@
+@using BOL;
+@using System.Collections.Generic;
+@{
+    ViewData["Title"] = "Register Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <form action="/Iacsd/RegisterUser" method="post">
+        <div>Id : <input type="text" name="id"></input></div>
+        <div>Password : <input type="text" name="password"></input></div>
+        <button  type="submit">Register</button>
+    </form>
+</div>

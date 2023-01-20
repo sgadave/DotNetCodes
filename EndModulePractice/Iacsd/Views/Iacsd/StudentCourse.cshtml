@@ -10,7 +10,7 @@
         List<Student> students = ViewData["StudentByCourse"] as List<Student>;
 
             <table border="2px">
-                <tr><th>Student Id</th><th>Student Name</th><th>Student Course</th><th>Student Address</th></tr>
+                <tr><th>SCourse</th><th>Student Name</th><th>Student Course</th><th>Student Address</th></tr>
             @foreach (Student student in students)
             {
                 <tr><td>@student.Id</td><td>@student.Name</td><td>@student.Course</td><td>@student.Address</td></tr>

@@ -17,16 +17,50 @@ public class IacsdController : Controller
 
     public IActionResult Index()
     {
-        ViewData["IacsdCourses"]=IacsdManager.GetIacsdCourses();
+        ViewData["IacsdCourses"] = IacsdManager.GetIacsdCourses();
         return View();
     }
 
+
+    public IActionResult Register()
+    {
+    
+        return View();
+    }
+
+    public IActionResult RegisterUser(string id, string password)
+    {
+       if(!ValidateUser.AlreadyRegistered(id,password)){
+         ValidateUser.Register(id,password);
+        return Redirect("/Iacsd/Login");
+       }
+      return Redirect("/Iacsd/Login");
+    }
+
+    public IActionResult Login()
+    {
+    
+        return View();
+    }
+
+    public IActionResult LoginValidation(string id, string password)
+    {
+        if(ValidateUser.Validation(id,password)){
+        return Redirect("/Iacsd/Index");
+        }else{
+            return Redirect("/Home/Privacy");
+        }
+    }
+
+
     public IActionResult StudentCourse(int id)
     {
-        List<BOL.Iacsd> iacsdCourse =IacsdManager.GetIacsdCourses();
-        foreach(BOL.Iacsd course in iacsdCourse){
-            if(course.CourseId == id){
-                ViewData["StudentByCourse"]=StudentManager.GetIacsdStudentByCourse(course);
+        List<BOL.Iacsd> iacsdCourse = IacsdManager.GetIacsdCourses();
+        foreach (BOL.Iacsd course in iacsdCourse)
+        {
+            if (course.CourseId == id)
+            {
+                ViewData["StudentByCourse"] = StudentManager.GetIacsdStudentByCourse(course);
             }
         }
         return View();
