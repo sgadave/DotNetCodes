@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I0Y4aeC+265fqgrjrEmFuTx89BH2wpZ+hIvGWyantoxTwjdNYLjICXXElWSX4hny+asIWq3dhKqdnA+/Ab0UNQ==",
+  "dgSpecHash": "ZQh+3lAqL6OUZekQKkz9aoB+e9ndejHu9tWjgBJ0b5GineBeEJ9QkQy4R2cL/5YY9h4LtlEyKTz2JT2jbPFO9g==",
   "success": true,
-  "projectFilePath": "D:\\PersonalProjects\\EndModulePractice\\Iacsd\\Iacsd.csproj",
+  "projectFilePath": "D:\\Github data\\DotNet\\EndModulePractice\\Iacsd\\Iacsd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\swapn\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\swapn\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

@@ -13,3 +13,18 @@ D:\PersonalProjects\EndModulePractice\DAL\obj\Debug\net7.0\DAL.dll
 D:\PersonalProjects\EndModulePractice\DAL\obj\Debug\net7.0\refint\DAL.dll
 D:\PersonalProjects\EndModulePractice\DAL\obj\Debug\net7.0\DAL.pdb
 D:\PersonalProjects\EndModulePractice\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\Github data\DotNet\EndModulePractice\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\Github data\DotNet\EndModulePractice\DAL\bin\Debug\net7.0\DAL.dll
+D:\Github data\DotNet\EndModulePractice\DAL\bin\Debug\net7.0\DAL.pdb
+D:\Github data\DotNet\EndModulePractice\DAL\bin\Debug\net7.0\BOL.dll
+D:\Github data\DotNet\EndModulePractice\DAL\bin\Debug\net7.0\BOL.pdb
+D:\Github data\DotNet\EndModulePractice\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\Github data\DotNet\EndModulePractice\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github data\DotNet\EndModulePractice\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\Github data\DotNet\EndModulePractice\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\Github data\DotNet\EndModulePractice\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\Github data\DotNet\EndModulePractice\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\Github data\DotNet\EndModulePractice\DAL\obj\Debug\net7.0\DAL.dll
+D:\Github data\DotNet\EndModulePractice\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\Github data\DotNet\EndModulePractice\DAL\obj\Debug\net7.0\DAL.pdb
+D:\Github data\DotNet\EndModulePractice\DAL\obj\Debug\net7.0\ref\DAL.dll

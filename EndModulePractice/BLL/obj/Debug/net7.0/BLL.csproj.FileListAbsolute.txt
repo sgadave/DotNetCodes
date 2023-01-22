@@ -15,3 +15,20 @@ D:\PersonalProjects\EndModulePractice\BLL\obj\Debug\net7.0\BLL.dll
 D:\PersonalProjects\EndModulePractice\BLL\obj\Debug\net7.0\refint\BLL.dll
 D:\PersonalProjects\EndModulePractice\BLL\obj\Debug\net7.0\BLL.pdb
 D:\PersonalProjects\EndModulePractice\BLL\obj\Debug\net7.0\ref\BLL.dll
+D:\Github data\DotNet\EndModulePractice\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\Github data\DotNet\EndModulePractice\BLL\bin\Debug\net7.0\BLL.dll
+D:\Github data\DotNet\EndModulePractice\BLL\bin\Debug\net7.0\BLL.pdb
+D:\Github data\DotNet\EndModulePractice\BLL\bin\Debug\net7.0\BOL.dll
+D:\Github data\DotNet\EndModulePractice\BLL\bin\Debug\net7.0\DAL.dll
+D:\Github data\DotNet\EndModulePractice\BLL\bin\Debug\net7.0\BOL.pdb
+D:\Github data\DotNet\EndModulePractice\BLL\bin\Debug\net7.0\DAL.pdb
+D:\Github data\DotNet\EndModulePractice\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\Github data\DotNet\EndModulePractice\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github data\DotNet\EndModulePractice\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\Github data\DotNet\EndModulePractice\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\Github data\DotNet\EndModulePractice\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\Github data\DotNet\EndModulePractice\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\Github data\DotNet\EndModulePractice\BLL\obj\Debug\net7.0\BLL.dll
+D:\Github data\DotNet\EndModulePractice\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\Github data\DotNet\EndModulePractice\BLL\obj\Debug\net7.0\BLL.pdb
+D:\Github data\DotNet\EndModulePractice\BLL\obj\Debug\net7.0\ref\BLL.dll

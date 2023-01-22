@@ -953,11 +953,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PersonalProjects\\EndModulePractice\\Iacsd\\Iacsd.csproj",
+      "projectUniqueName": "D:\\Github data\\DotNet\\EndModulePractice\\Iacsd\\Iacsd.csproj",
       "projectName": "Iacsd",
-      "projectPath": "D:\\PersonalProjects\\EndModulePractice\\Iacsd\\Iacsd.csproj",
+      "projectPath": "D:\\Github data\\DotNet\\EndModulePractice\\Iacsd\\Iacsd.csproj",
       "packagesPath": "C:\\Users\\swapn\\.nuget\\packages\\",
-      "outputPath": "D:\\PersonalProjects\\EndModulePractice\\Iacsd\\obj\\",
+      "outputPath": "D:\\Github data\\DotNet\\EndModulePractice\\Iacsd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -979,11 +979,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\PersonalProjects\\EndModulePractice\\BLL\\BLL.csproj": {
-              "projectPath": "D:\\PersonalProjects\\EndModulePractice\\BLL\\BLL.csproj"
+            "D:\\Github data\\DotNet\\EndModulePractice\\BLL\\BLL.csproj": {
+              "projectPath": "D:\\Github data\\DotNet\\EndModulePractice\\BLL\\BLL.csproj"
             },
-            "D:\\PersonalProjects\\EndModulePractice\\BOL\\BOL.csproj": {
-              "projectPath": "D:\\PersonalProjects\\EndModulePractice\\BOL\\BOL.csproj"
+            "D:\\Github data\\DotNet\\EndModulePractice\\BOL\\BOL.csproj": {
+              "projectPath": "D:\\Github data\\DotNet\\EndModulePractice\\BOL\\BOL.csproj"
             }
           }
         }

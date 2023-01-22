@@ -10,3 +10,15 @@ D:\PersonalProjects\EndModulePractice\BOL\obj\Debug\net7.0\BOL.dll
 D:\PersonalProjects\EndModulePractice\BOL\obj\Debug\net7.0\refint\BOL.dll
 D:\PersonalProjects\EndModulePractice\BOL\obj\Debug\net7.0\BOL.pdb
 D:\PersonalProjects\EndModulePractice\BOL\obj\Debug\net7.0\ref\BOL.dll
+D:\Github data\DotNet\EndModulePractice\BOL\bin\Debug\net7.0\BOL.deps.json
+D:\Github data\DotNet\EndModulePractice\BOL\bin\Debug\net7.0\BOL.dll
+D:\Github data\DotNet\EndModulePractice\BOL\bin\Debug\net7.0\BOL.pdb
+D:\Github data\DotNet\EndModulePractice\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+D:\Github data\DotNet\EndModulePractice\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github data\DotNet\EndModulePractice\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+D:\Github data\DotNet\EndModulePractice\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+D:\Github data\DotNet\EndModulePractice\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+D:\Github data\DotNet\EndModulePractice\BOL\obj\Debug\net7.0\BOL.dll
+D:\Github data\DotNet\EndModulePractice\BOL\obj\Debug\net7.0\refint\BOL.dll
+D:\Github data\DotNet\EndModulePractice\BOL\obj\Debug\net7.0\BOL.pdb
+D:\Github data\DotNet\EndModulePractice\BOL\obj\Debug\net7.0\ref\BOL.dll
